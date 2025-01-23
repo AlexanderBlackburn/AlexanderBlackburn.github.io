@@ -1,3 +1,2 @@
 # AlexanderBlackburn.github.io
-
-# Work in progress, check back later!
+Welcome to my portfolio! I've only just started, so check back later for more.
